@@ -22,5 +22,9 @@ public class SimpleCalculator {
     public static Integer addNumbers(Integer a, Integer b,Integer c){
         return a + b + c;
     }
+    public static Integer multiplyNumbers(Integer a, Integer b,Integer c){
+        
+        return a * b * c;
+    }
 
 }
